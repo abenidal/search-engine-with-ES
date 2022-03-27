@@ -1,1 +1,1 @@
-# search-engine-with-ES
+A basic search engine created with Elastic search. 
